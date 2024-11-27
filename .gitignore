@@ -1,0 +1,9 @@
+# Apache Logs
+/apache2/
+
+# File Data
+/files/
+
+# Configs
+/config.php
+
